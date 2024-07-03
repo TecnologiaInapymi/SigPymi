@@ -1,0 +1,5 @@
+####    Versión 0.5
+Se creó el modulo para importar archivos shp a la base de datos
+Se corrigio el paginador del registro de OPS
+Se agregó el soporte de graficos a los reportes
+Se agregó tabla dinamica para los reportes
